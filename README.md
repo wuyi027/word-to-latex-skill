@@ -1,4 +1,4 @@
-# Word to LaTeX Skill / Word 转 LaTeX 技能
+# 自用 Word to LaTeX Skill / Word 转 LaTeX 技能
 
 Convert Word `.docx` manuscripts into compile-ready LaTeX projects for Codex, Claude Code, CI scripts, and direct command-line use.
 
